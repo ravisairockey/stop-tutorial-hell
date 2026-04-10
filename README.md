@@ -123,10 +123,10 @@ Apply CONCEPTS → Build ANYTHING!
 │  • Neural network - animated diagram                            │
 ├─────────────────────────────────────────────────────────────────┤
 │  🎯 QUIZ SYSTEM                                                 │
-│  • 96 questions across 16 topics (6 each)                     │
+│  • 96 questions across 16 topics (6 each)                       │
 │  • Difficulty: Easy → Medium → Hard                             │
 │  • Instant feedback with detailed explanations                  │
-│  • Progress tracking (visited topics ✓)                       │
+│  • Progress tracking (visited topics ✓)                         │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -165,7 +165,7 @@ Apply CONCEPTS → Build ANYTHING!
 git clone https://github.com/ravisairockey/stop-tutorial-hell.git
 cd stop-tutorial-hell
 
-# Install dependencies  
+# Install dependencies
 npm install
 
 # Start development server
